@@ -2,7 +2,7 @@
 
 这是曹雪松的 [个人主页](https://cedarcao.github.io) ，在这里可以找到我的相关信息.
 
-如果您需要进一步了解我，欢迎跟我联系（Email：abc@gmail.com，abc代表上面网址.github.io前面的字符）.
+如果您需要进一步了解我，欢迎跟我联系（Email：abc@gmail.com，abc代表我名字的汉语拼音全拼）.
 
 ### 我是谁？
 
@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 京东购物
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cedarcao/cedar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如果你想在京东购买商品，欢迎[点击直达链接](http://sanlipu.cn)，谢谢~ 
 
 ### Support or Contact
 
